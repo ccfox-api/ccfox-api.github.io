@@ -1,2 +1,2 @@
-# ccfox-docs.github.io
-ccfox-docs@github.io
+# ccfox-api.github.io
+ccfox-api@github.io
